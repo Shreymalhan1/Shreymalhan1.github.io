@@ -1,7 +1,16 @@
-# Host and Format a Resume on GitHub Pages
+# Learn how to host a Resume on GitHub Pages
 
+## Table of Contents
+* [Introduction](#introduction)
+* [GitHub](#what-is-github) 
+* [MarkDown](#what-is-markdown)
+* [Prerequisites](#prerequisites)
+* [Hosting Resume](#lets-get-started)
+* [More Resources](#more-resources) 
+* [Authors and Acknowledgement](#authors-and-acknowledgment)
+* [FAQ's](#faqs)
 ## Introduction
-This README gives a step-by-step description on how to host resumes on GitHub using strategies from **Etter's Book  Modern Technical Writing.**
+This README provides a detailed step-by-step description on how to host resumes on GitHub using concepts from **Etter's Book  Modern Technical Writing.**
 
 <img  src="resume.gif" alt="gif of a resume">
 
@@ -21,11 +30,26 @@ The three features of GitHub `fork, pull request and merge` are what make GitHub
 
 </br>[Markdown](https://www.youtube.com/watch?v=f49LJV1i-_w&ab_channel=Codecademy) is a lightweight markup language to add formating elements to plain text and making writing for the internet easier. It has been widely adopted by the developers because it does not take long to learn the [Markdown syntax](https://www.markdowntutorial.com/) and can be used for everything. 
 Infact, I used MarkDown to create this README file and the resume which I am hosting in this repository.
+
+<br>
+
+### Prerequisites
+
+For this tutorial, you will need two things:
+
+**1. A GitHub Account**
+
+Signing up for a [GitHub account](https://github.com/) could not have been any simpler. You just need to create a username, followed by an email address and a password and you are all set to explore the GitHub world.
+
+**2. A Resume**
+
+Your resume can be of any format, i.e. .txt, .md etc. In this tutorial, we will be hosting Markdown created resumes.
+
 <br>
 
 ### Lets Get Started
 
-Signing up for a [GitHub account](https://github.com/) could not have been any simpler. You just need a username,email and password and you are all set to explore the GitHub world.
+Once you are all set with the above mentioned prerequisites, following steps should be pursued. 
 
 #### 1. Creating a Repository
 A repository, also known as *Repo*, is a folder where all your project files are stored.
@@ -41,7 +65,7 @@ A repository, also known as *Repo*, is a folder where all your project files are
 
 
 #### 2. Add a file to the Repository
-You can add more pages to your site by creating more new files.
+You can add more pages to your site by creating new files.
 * Click on the `Add file` drop-down button.
 * Select the option based on your convinience. 
 * If you are choosing `Create a file`, give the file a name and an extension like .txt or .md
@@ -65,25 +89,38 @@ A new file, `_config.yml` should be created in your repo which store all the Jek
 
 
 ### More Resources
-* Learing [Markdown](https://www.markdowntutorial.com/).
-* If you are interested, do check [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) for deeper analysis.
-* If you want to learn GitHub Flavored Markdown [Click Here](https://github.github.com/gfm/).
+* GitHub Resources
+    * [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&ab_channel=GitHub)
+    * [GitHub for beginners](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/).
+* Markdown Resources
+    * [What is MarkDown?](https://www.youtube.com/watch?v=f49LJV1i-_w&ab_channel=Codecademy)
+    * [Markdown Tutorial](https://www.markdowntutorial.com/).
+    * More about [GitHub Flavored Markdown](https://github.github.com/gfm/).
+* Jekyll Resources
+    * [What is Jekyll?](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&ab_channel=MikeDane)
+    * [Jekyll Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+* A link to [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+
 
 <br>
 
 ### Authors and Acknowledgment
 * Shrey Malhan
+* Nicole Ciceron
+* Mohammad Inan
 
 <br>
 
-### FAQ
+### FAQ's
 **Why is markdown better than a word processor?**
-
-Markdown have features like **version control** which helps you track all the changes made to the project my different group members, whereas, in word documents it is imposible to merge or keep a track of changes  
+> Microsoft Word is a complicated program which gets messy really quickly.   
+> Markdown is a lightweight markup language with features like **version control** which helps you track all the changes made to the project my different group members, whereas, in word documents it is imposible to merge different versions together or keep a track of changes. 
 
 **How can I change the description of my repository?**
 
-On the right side of the screen, there will be an `about` section which display the description of the repository. By clicking `⚙️` present on the right side if the section, you can change the desription.
+> * On the right side of the screen, there will be an **about** section which display the description of the repository. 
+
+> * By clicking `⚙️` present on the right side of the section, you can change the desription.
 
 ---
 
