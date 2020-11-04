@@ -135,6 +135,7 @@ A new file, `_config.yml` should be created in your repo that stores all the Jek
 
 ### FAQ's
 **Why is Markdown better than a Word Processor?**
+
 As stated in Andrew Etter's book, 
 > "Microsoft Word is a wonderful choice for creating résumés and a horrible
 choice for creating documentation."
